@@ -27,20 +27,25 @@ The Stock Price Prediction App is a powerful tool designed to assist both invest
 
 To use the app, follow these steps:
 
-
-1. Select a NYSE ticker symbol from the dropdown menu. This will allow you to analyze the stock data for the selected company.
-
-
-2. Once you've selected a ticker symbol, the app will display the close price history for that stock.
+1.Install the required dependencies by running `pip install -r requirements.txt`.
 
 
-3. Based on the historical data, the app will provide technical recommendations such as Buy, Sell, or Hold.
+2. Launch the app by executing `streamlit run stock_price_prediction.
 
 
-4. The LSTM model will then be trained to predict future stock prices using the provided data.
+3. Select a NYSE ticker symbol from the dropdown menu. This will allow you to analyze the stock data for the selected company.
 
 
-5. Finally, you'll receive a recommendation based on the LSTM model's prediction for the next 30 days.
+4. Once you've selected a ticker symbol, the app will display the close price history for that stock.
+
+
+5. Based on the historical data, the app will provide technical recommendations such as Buy, Sell, or Hold.
+
+
+6. The LSTM model will then be trained to predict future stock prices using the provided data.
+
+
+7. Finally, you'll receive a recommendation based on the LSTM model's prediction for the next 30 days and stock recommendation.
 
 
 ## ℹ️ Important Information

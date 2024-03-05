@@ -91,10 +91,11 @@ Based on the LSTM model's prediction, a final recommendation is provided for the
 
 Contributing:
 
-We welcome contributions from the community to enhance the functionality and accuracy of the Heart Disease Prediction App. Whether it's fixing bugs, adding features, or improving documentation, your contributions are valuable. Fork the repository, make your changes, and submit a pull request. Together, let's make a positive impact on healthcare technology!
+We welcome contributions from the community to enhance the functionality and accuracy of the Stock price Prediction. Whether it's fixing bugs, adding features, or improving documentation, your contributions are valuable. Fork the repository, make your changes, and submit a pull request. Together, let's make a positive impact on healthcare technology!
 
 
 📧 Contact Support: 
+
 For inquiries, assistance, or feedback, reach out to us at contact.info.inquiries@gmail.com. We value your input and strive to provide prompt support.
 
 

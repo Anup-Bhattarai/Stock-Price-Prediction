@@ -30,7 +30,7 @@ To use the app, follow these steps:
 1.Install the required dependencies by running `pip install -r requirements.txt`.
 
 
-2. Launch the app by executing `streamlit run website_copy.ipynb.
+2. Launch the app by executing `streamlit run website_copy.ipynb and then copy.py.
 
 
 3. Select a NYSE ticker symbol from the dropdown menu. This will allow you to analyze the stock data for the selected company.
